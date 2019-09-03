@@ -1,5 +1,7 @@
 # React Simple boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/corlaez/react-simple.svg)](https://greenkeeper.io/)
+
 An opinionated react boilerplate with Parcel as a bundler.
 
 Want to see simpler examples with explanations? [Checkout my parcel examples](https://github.com/lrn2prgrm/parcel-examples)
